@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-394239221)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_oli1/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoliy&show_icons=true&theme=onedark)
 
 ## Tecnologias 
 
@@ -15,5 +14,11 @@
   <img align= "center" alt = "Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   
   </div><br>
+
+  ## Estatísticas
   
+  ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoliy&show_icons=true&theme=onedark)
+  
+<br>
+
 Apaixonado por tecnologia e jogos, buscando minha primeira vaga de programador Back End / Estagiário 
