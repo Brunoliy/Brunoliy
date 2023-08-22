@@ -5,17 +5,14 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoliy&show_icons=true&theme=onedark)
 
- <br>
-  
-  <strong> Tecnologias </strong>
+## Tecnologias 
 
 <div style="display: inline_block"> 
-  ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=fff)
-  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=fff) 
-  ![C++](https://img.shields.io/badge/C++-125090?style=for-the-badge&logo=cplusplus&logoColor=fff)
- 
-<br>
-  
-  <strong> Estatísticas </strong>
-  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+          
+          
+  </div><br>
 Apaixonado por tecnologia e jogos, buscando minha primeira vaga de programador Back End / Estagiário 
