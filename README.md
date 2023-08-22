@@ -5,12 +5,17 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoliy&show_icons=true&theme=onedark)
 
-## Tecnologias 
+ <br>
+  
+  <strong> Tecnologias </strong>
 
 <div style="display: inline_block"> 
   ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=fff) 
   ![C++](https://img.shields.io/badge/C++-125090?style=for-the-badge&logo=cplusplus&logoColor=fff)
  
-
+<br>
+  
+  <strong> Estatísticas </strong>
+  
 Apaixonado por tecnologia e jogos, buscando minha primeira vaga de programador Back End / Estagiário 
