@@ -21,4 +21,4 @@
   
 <br>
 
-Apaixonado por tecnologia e jogos, buscando minha primeira vaga de programador Back End / Estagiário 
+Apaixonado por tecnologia e jogos. Dev Back End | Django
