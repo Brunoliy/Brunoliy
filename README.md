@@ -14,4 +14,6 @@
   
 <br>
 
-Apaixonado por tecnologia e jogos. Dev Back End | FastAPI | Django
+Apaixonado por tecnologia e jogos. 
+<br>
+Backend Developer | FastAPI | Django
